@@ -77,7 +77,7 @@ Additional information regarding your persona may also include:
 - Additional information your persona may need in order to achieve their goal.-->
 
 
-			<h3>1. Jerry Foster</h3>
+			<h4>1. Jerry Foster</h4>
 			<ol>
 				<li>Age: 59</li>
 				<li>Job: Director of Music Ministries</li>
@@ -93,8 +93,8 @@ Additional information regarding your persona may also include:
 			<!--A use case should be based on your persona’s motivations and goals. Your use case should detail the time, location, technology used, and the purpose or goal of your Persona's use of your site.-->
 
 			<p>Jerry heard about SWMA from a friend who purchased a miniature painting. She was told that she found it at an Art Fair. Jerry wants to see more. She loves artwork, especially from the Southwest. She wants to know: Who we are? What we sell? How much it costs? Where can she find it? How can she easily contact us?</p>
-
-			<h3>2. Gifts Galore</h3>
+			<h3>PERSONA</h3>
+			<h4>2. Gifts Galore</h4>
 			<ol>
 				<li>Store is 5 years old.</li>
 				<li>Owner is Megan Truly.</li>
@@ -105,6 +105,8 @@ Additional information regarding your persona may also include:
 				<li>Goals: After an initial in-person meeting, owner asks buyer to check out SWMA and provides him with the web address. He will look for History, Catalogue, Prices, Info on each piece, other places that carry the product, contact information.</li>
 				<li>Potential: Interest in carrying SWMA on their shelves. Wants some sort of exclusive deal. Owner is sold but buyer is a skeptic.</li>
 			</ol>
+			<h3>Use Case</h3>
+			<h4>Gifts Galore is a small gift shop/lunch counter that is run by a couple in Bernalillo, NM. They were approached in person by SWMA and viewed samples. The owner really loved the product, but wants to run it by her buyer (not present in initial meeting). The buyer is more skeptical. He wants to know how much the company is locked in to the product, flexibility of returning items that don't sell, possibility of commissioned artwork, ease of ordering, how long it takes to receive product after order, payment terms and new artwork coming soon. He will get all of this info from the website, or use the contact form to reach SWMA with further questions.</h4>
 		</main>
 	</body>
 </html>
